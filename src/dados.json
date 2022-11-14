@@ -1,0 +1,16 @@
+{
+        "nome": "João",
+        "idade": null,
+        "endereco": 
+        {
+            "rua": "Rua Major Carneiro",
+            "bairro": "Vila",
+            "numero": 87,
+            "complemento": "Ap 311"
+        },
+        "fones": [
+            "32 98899 6655",
+            "32 98899 6656",
+            "32 98899 6657"
+        ]
+    }

@@ -1,2 +1,7 @@
 # video_serde_json
-Vídeo no meu canal do Youtube sobre Serde-Json (Em português)
+
+Se inscreva no meu canal no Youtube 
+Vídeos sobre Rust 🦀
+
+![Capa do vídeo no Youtube](capa.jpeg)
+
